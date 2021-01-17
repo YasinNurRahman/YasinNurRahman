@@ -132,7 +132,7 @@
 
 </details>
 -->
-[![YasinNurRahman's github stats](https://github-readme-stats.vercel.app/api?username=YasinNurRahman)](https://github.com/YasinNurRahman/github-readme-stats&count_private=true&show_icons=true&theme=radical)
+[![YasinNurRahman's github stats](https://github-readme-stats.vercel.app/api?username=YasinNurRahman)](https://github.com/YasinNurRahman/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 [website]: https://codeSTACKr.com
