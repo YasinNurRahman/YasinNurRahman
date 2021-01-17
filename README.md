@@ -127,7 +127,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="YasinNurRahman's GitHub Stats" src="https://github-readme-stats.YasinNurRahman.vercel.app/api?username=YasinNurRahman&show_icons=true&hide_border=true" />
+  <img align="left" alt="YasinNurRahman's GitHub Stats" src="https://github-readme-stats.yasinnurrahman.vercel.app/api?username=YasinNurRahman&show_icons=true&hide_border=true" />
 
 </details>
 
