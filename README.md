@@ -124,13 +124,15 @@
 <!--
 </details>
 -->
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="YasinNurRahman's GitHub Stats" src="https://github-readme-stats.yasinnurrahman.vercel.app/api?username=YasinNurRahman&show_icons=true&hide_border=true" />
 
 </details>
-
+-->
+[![YasinNurRahman's github stats](https://github-readme-stats.vercel.app/api?username=YasinNurRahman)](https://github.com/YasinNurRahman/github-readme-stats&count_private=true&show_icons=true&theme=radical)
 
 <!--
 [website]: https://codeSTACKr.com
