@@ -1,10 +1,11 @@
 ### Hi there, I'm [Yasin](https://github.com/YasinNurRahman) - aka JeTexY 👋
 
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
--->
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/yasindipok?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyasindipok&screen_name=yasindipok)
+
+<!--
 <a href="https://twitter.com/yasindipok?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yasindipok</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
 
 ## I'm a Son, Brother, Developer, and Mechatronics Engineer!!
 
