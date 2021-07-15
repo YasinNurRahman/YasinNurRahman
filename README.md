@@ -1,4 +1,4 @@
-### Hi there, I'm [Yasin](https://github.com/YasinNurRahman) - aka JeTexY 👋
+### Hi there, I'm [Yasin](https://github.com/YasinNurRahman) 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yasindipok?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyasindipok&screen_name=yasindipok)
@@ -10,7 +10,7 @@
 ## I'm a Son, Brother, Developer, and Mechatronics Engineer!!
 
 - 🔭 I’m currently working on Personal site.
-- 🌱 I’m currently learning Java. 🤣
+- 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Front-End Dev.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
