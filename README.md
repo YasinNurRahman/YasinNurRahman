@@ -10,7 +10,7 @@
 ## I'm a Son, Brother, Developer, and Mechatronics Engineer!!
 
 - 🔭 I’m currently working on Personal site.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JS.
 - 🤔 I’m looking for help with Front-End Dev.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
